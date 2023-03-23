@@ -11,3 +11,4 @@ NORMAL
 # Asus Router at Balmain - Use for Emergency Reboot / Reset options in VPNMON-R2
 #
 # https://raw.githubusercontent.com/stephenjharrington/router-reboot/main/event.txt
+#

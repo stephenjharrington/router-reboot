@@ -5,8 +5,9 @@ NORMAL
 # RESET  -- This will cause VPNMON-R2 to intiate a VPN connection reset
 # REBOOT -- This will cause VPNMON-R2 to intiate a reboot of your router
 # NORMAL -- This will allow VPNMON-R2 to continue normal operations
-
-# https://raw.githubusercontent.com/stephenjharrington/router-reboot/main/event.txt
+#
 # Stephen Harrington
 #
-# Asus Router at Balmain - Use for Emergency Reboot!
+# Asus Router at Balmain - Use for Emergency Reboot / Reset options in VPNMON-R2
+#
+# https://raw.githubusercontent.com/stephenjharrington/router-reboot/main/event.txt
